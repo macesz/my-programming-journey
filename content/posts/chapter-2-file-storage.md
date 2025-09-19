@@ -217,3 +217,5 @@ I'm learning in public because:
 *This is Chapter 2 of my Go learning series. Follow along as I build from simple concepts to production-ready patterns, one layer at a time.*
 
 **Next up**: Chapter 3 will tackle comprehensive testing strategies and introduce user management with proper authentication.
+
+![Go Gopher with Floppy Disk](/images/go-gopher-floppy.png)
