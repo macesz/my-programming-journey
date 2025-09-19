@@ -1,6 +1,6 @@
 +++
 date = '2025-09-19T15:01:37+02:00'
-draft = true
+draft = false
 title = 'Chapter 3: Testing the Service Layer - Adding Confidence to Go Code'
 tags = ["golang", "testing", "clean-architecture", "mocking", "testify", "unit-testing", "tdd", "service-layer", "dependency-injection", "learning-in-public"]
 categories = ["Go Journey"]
