@@ -3,6 +3,8 @@ date = '2025-09-19T15:57:21+02:00'
 draft = true
 title = 'Chapter 4: Testing the Storage Layer - From Mocks to Reality 💾🧪'
 tags = ["golang", "testing", "file-io", "concurrency", "storage", "race-conditions", "testify", "temp-directories", "learning-in-public", "clean-architecture"]
+categories = ["Go Journey"]
+
 +++
 
 From mocking to reality! After testing the service layer with mocks, I'm now tackling the storage layer—where data actually hits the disk. This is where things get interesting (and messy) with real file I/O, concurrency, and error conditions you can't easily simulate.
@@ -632,4 +634,4 @@ Share your experiences—let's learn from each other's wins and fails!
 
 **Next up**: Chapter 5 will tackle HTTP handler testing, where we'll deal with JSON parsing, status codes, and request validation.
 
-![Go Gopher Storage Testing](my-programming-journey/images/go-gopher-storage-testing.png)
+![Go Gopher with Floppy Disk](/my-programming-journey/images/go-gopher-storage-testing.png)
