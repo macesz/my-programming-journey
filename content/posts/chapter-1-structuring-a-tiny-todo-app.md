@@ -11,6 +11,8 @@ I'm jumping into Go and documenting the journey so others can learn with me (and
 
 Today's focus: **project structure**
 
+**Repo/branch**: [https://github.com/macesz/todo-go/tree/ceate-project-structure](https://github.com/macesz/todo-go/tree/ceate-project-structure)
+
 ## The Evolution: From Prototype to Structure
 
 I moved from a single-file-style prototype to a small layered layout inspired by hexagonal/DDD ideas. The goal: keep the core logic clean and make storage and delivery swappable.

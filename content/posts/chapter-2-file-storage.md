@@ -9,7 +9,7 @@ categories = ["Go Journey"]
 
 Keeping the momentum going! Yesterday, I split my tiny Go Todo app into a layered structure. Today I added a file‑based storage adapter so todos survive restarts—without jumping to a full database (yet).
 
-**Repo/branch**: [https://github.com/macesz/go-todo-chi/tree/file-storage](https://github.com/macesz/go-todo-chi/tree/file-storage)
+**Repo/branch**: [https://github.com/macesz/todo-go/tree/create-filestorage](https://github.com/macesz/todo-go/tree/create-filestorage)
 
 ## Why Start In-Memory? 🧠
 
