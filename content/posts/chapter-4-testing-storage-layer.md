@@ -1,6 +1,6 @@
 +++
 date = '2025-09-19T15:57:21+02:00'
-draft = true
+draft = false
 title = 'Chapter 4: Testing the Storage Layer - From Mocks to Reality 💾🧪'
 tags = ["golang", "testing", "file-io", "concurrency", "storage", "race-conditions", "testify", "temp-directories", "learning-in-public", "clean-architecture"]
 categories = ["Go Journey"]
