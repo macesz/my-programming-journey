@@ -1,0 +1,40 @@
+baseURL: "https://macesz.github.io/my-programming-journey"
+languageCode: "en-us"
+title: "My Programming Journey Blog"
+theme: "PaperMod"
+
+params:
+  env: production
+  title: "My Programming Journey"
+  description: "Learning Go and sharing the journey"
+  keywords: [Blog, Portfolio, Go, Programming]
+  author: "Your Name"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+
+  homeInfoParams:
+    Title: "Hi there! 👋"
+    Content: "Welcome to my programming journey. I'm learning Go and sharing everything I discover along the way."
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false

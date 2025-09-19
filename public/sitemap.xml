@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/my-programming-journey/tags/architecture/</loc>
+    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/categories/</loc>
+    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/posts/chapter-1-structuring-a-tiny-todo-app/</loc>
+    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/categories/go-journey/</loc>
+    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/golang/</loc>
+    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/learning/</loc>
+    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/</loc>
+    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/posts/</loc>
+    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/</loc>
+    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
+  </url>
+</urlset>
