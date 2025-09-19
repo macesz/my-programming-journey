@@ -2,7 +2,7 @@
 date = '2025-09-19T15:01:37+02:00'
 draft = true
 title = 'Chapter 3: Testing the Service Layer - Adding Confidence to Go Code'
-tags: ["golang", "testing", "clean-architecture", "mocking", "testify"]
+tags = ["golang", "testing", "clean-architecture", "mocking", "testify", "unit-testing", "tdd", "service-layer", "dependency-injection", "learning-in-public"]
 categories = ["Go Journey"]
 +++
 
@@ -514,6 +514,6 @@ Drop your thoughts in the comments—let's learn together!
 
 **Next up**: Chapter 4 will tackle the storage layer, where we'll test real file I/O, handle concurrency safely, and ensure our data persistence is bulletproof.
 
-**Tags**: #golang #testing #clean-architecture #mocking #testify #unit-testing #tdd #service-layer #dependency-injection #learning-in-public
+
 
 ![Go Gopher Testing](/my-programming-journey/images/go-gopher-testing.png)
