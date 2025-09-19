@@ -31,10 +31,3 @@ menu:
       name: About
       url: /about/
       weight: 20
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    noClasses: false

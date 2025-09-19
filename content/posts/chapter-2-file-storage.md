@@ -218,4 +218,4 @@ I'm learning in public because:
 
 **Next up**: Chapter 3 will tackle comprehensive testing strategies and introduce user management with proper authentication.
 
-![Go Gopher with Floppy Disk](/images/go-gopher-floppy.png)
+![Go Gopher with Floppy Disk](/my-programming-journey/images/go-gopher-floppy.png)
