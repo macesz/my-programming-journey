@@ -3,30 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/my-programming-journey/tags/architecture/</loc>
-    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/atomic-operations/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/backend/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-programming-journey/categories/</loc>
-    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/posts/chapter-2-file-storage/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/clean-architecture/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/concurrency/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/file-storage/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/categories/go-journey/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/golang/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/learning/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/persistence/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/posts/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-programming-journey/tags/web-development/</loc>
+    <lastmod>2025-09-19T13:35:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-programming-journey/posts/chapter-1-structuring-a-tiny-todo-app/</loc>
     <lastmod>2025-09-19T10:57:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-programming-journey/categories/go-journey/</loc>
+    <loc>http://localhost:1313/my-programming-journey/tags/ddd/</loc>
     <lastmod>2025-09-19T10:57:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-programming-journey/tags/golang/</loc>
-    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-programming-journey/tags/learning/</loc>
-    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-programming-journey/</loc>
-    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-programming-journey/posts/</loc>
-    <lastmod>2025-09-19T10:57:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-programming-journey/tags/</loc>
+    <loc>http://localhost:1313/my-programming-journey/tags/testing/</loc>
     <lastmod>2025-09-19T10:57:00+02:00</lastmod>
   </url>
 </urlset>

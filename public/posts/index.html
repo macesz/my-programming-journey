@@ -145,7 +145,7 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Chapter 1 Structuring a Tiny Todo App
+    <h2 class="entry-hint-parent">Chapter 2: From In-Memory to File Storage - Persistence Without Database Overhead 💾
       <span class="entry-hint" title="Draft">
         <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
           <path
@@ -155,13 +155,30 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p>Chapter 1 of my Go journey: Clean Architecture 🏗️ Today I’m diving into structuring a Go application with clean architecture principles…
-The Problem When I started this Todo app, I had one big question: how do you structure a Go project that won’t become a mess?
-The Solution After researching, I landed on a layered architecture approach:
-// Domain layer - pure business logic type Todo struct { ID int `json:&#34;id&#34;` Title string `json:&#34;title&#34;` Done bool `json:&#34;done&#34;` CreatedAt time.Time `json:&#34;createdAt&#34;` } </p>
+    <p>Keeping the momentum going! Yesterday, I split my tiny Go Todo app into a layered structure. Today I added a file‑based storage adapter so todos survive restarts—without jumping to a full database (yet).
+Repo/branch: https://github.com/macesz/go-todo-chi/tree/file-storage
+Why Start In-Memory? 🧠 Starting with in-memory storage wasn’t just about being lazy—it was strategic:
+Fast feedback: No I/O, fewer moving parts to debug Focus on the domain: Behavior first, storage later Simple wiring: Great for sketching out architecture patterns But of course, it came with trade-offs:
+...</p>
   </div>
-  <footer class="entry-footer"><span title='2025-09-19 10:57:00 +0200 CEST'>September 19, 2025</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;81 words&nbsp;·&nbsp;Your Name</footer>
-  <a class="entry-link" aria-label="post link to Chapter 1 Structuring a Tiny Todo App" href="http://localhost:1313/my-programming-journey/posts/chapter-1-structuring-a-tiny-todo-app/"></a>
+  <footer class="entry-footer"><span title='2025-09-19 13:35:54 +0200 CEST'>September 19, 2025</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;854 words&nbsp;·&nbsp;Your Name</footer>
+  <a class="entry-link" aria-label="post link to Chapter 2: From In-Memory to File Storage - Persistence Without Database Overhead 💾" href="http://localhost:1313/my-programming-journey/posts/chapter-2-file-storage/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Chapter 1: Building a Go Todo App - Architecture and Structure 🐹✨
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I’m jumping into Go and documenting the journey so others can learn with me (and kindly correct me when I go off track). I’m starting simple, then growing step by step.
+Today’s focus: project structure
+The Evolution: From Prototype to Structure I moved from a single-file-style prototype to a small layered layout inspired by hexagonal/DDD ideas. The goal: keep the core logic clean and make storage and delivery swappable.
+Here’s what my project structure looks like now:
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-09-19 10:57:00 +0200 CEST'>September 19, 2025</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;902 words&nbsp;·&nbsp;Your Name</footer>
+  <a class="entry-link" aria-label="post link to Chapter 1: Building a Go Todo App - Architecture and Structure 🐹✨" href="http://localhost:1313/my-programming-journey/posts/chapter-1-structuring-a-tiny-todo-app/"></a>
 </article>
     </main>
     

@@ -6,27 +6,90 @@
     <description>Recent content in Tags on My Programming Journey Blog</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Sep 2025 10:57:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 13:35:54 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/my-programming-journey/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architecture</title>
       <link>http://localhost:1313/my-programming-journey/tags/architecture/</link>
-      <pubDate>Fri, 19 Sep 2025 10:57:00 +0200</pubDate>
+      <pubDate>Fri, 19 Sep 2025 13:35:54 +0200</pubDate>
       <guid>http://localhost:1313/my-programming-journey/tags/architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atomic-Operations</title>
+      <link>http://localhost:1313/my-programming-journey/tags/atomic-operations/</link>
+      <pubDate>Fri, 19 Sep 2025 13:35:54 +0200</pubDate>
+      <guid>http://localhost:1313/my-programming-journey/tags/atomic-operations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Backend</title>
+      <link>http://localhost:1313/my-programming-journey/tags/backend/</link>
+      <pubDate>Fri, 19 Sep 2025 13:35:54 +0200</pubDate>
+      <guid>http://localhost:1313/my-programming-journey/tags/backend/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clean-Architecture</title>
+      <link>http://localhost:1313/my-programming-journey/tags/clean-architecture/</link>
+      <pubDate>Fri, 19 Sep 2025 13:35:54 +0200</pubDate>
+      <guid>http://localhost:1313/my-programming-journey/tags/clean-architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Concurrency</title>
+      <link>http://localhost:1313/my-programming-journey/tags/concurrency/</link>
+      <pubDate>Fri, 19 Sep 2025 13:35:54 +0200</pubDate>
+      <guid>http://localhost:1313/my-programming-journey/tags/concurrency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>File-Storage</title>
+      <link>http://localhost:1313/my-programming-journey/tags/file-storage/</link>
+      <pubDate>Fri, 19 Sep 2025 13:35:54 +0200</pubDate>
+      <guid>http://localhost:1313/my-programming-journey/tags/file-storage/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
       <link>http://localhost:1313/my-programming-journey/tags/golang/</link>
-      <pubDate>Fri, 19 Sep 2025 10:57:00 +0200</pubDate>
+      <pubDate>Fri, 19 Sep 2025 13:35:54 +0200</pubDate>
       <guid>http://localhost:1313/my-programming-journey/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning</title>
       <link>http://localhost:1313/my-programming-journey/tags/learning/</link>
-      <pubDate>Fri, 19 Sep 2025 10:57:00 +0200</pubDate>
+      <pubDate>Fri, 19 Sep 2025 13:35:54 +0200</pubDate>
       <guid>http://localhost:1313/my-programming-journey/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Persistence</title>
+      <link>http://localhost:1313/my-programming-journey/tags/persistence/</link>
+      <pubDate>Fri, 19 Sep 2025 13:35:54 +0200</pubDate>
+      <guid>http://localhost:1313/my-programming-journey/tags/persistence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Development</title>
+      <link>http://localhost:1313/my-programming-journey/tags/web-development/</link>
+      <pubDate>Fri, 19 Sep 2025 13:35:54 +0200</pubDate>
+      <guid>http://localhost:1313/my-programming-journey/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ddd</title>
+      <link>http://localhost:1313/my-programming-journey/tags/ddd/</link>
+      <pubDate>Fri, 19 Sep 2025 10:57:00 +0200</pubDate>
+      <guid>http://localhost:1313/my-programming-journey/tags/ddd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/my-programming-journey/tags/testing/</link>
+      <pubDate>Fri, 19 Sep 2025 10:57:00 +0200</pubDate>
+      <guid>http://localhost:1313/my-programming-journey/tags/testing/</guid>
       <description></description>
     </item>
   </channel>
