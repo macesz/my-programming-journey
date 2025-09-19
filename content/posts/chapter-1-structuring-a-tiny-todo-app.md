@@ -1,6 +1,6 @@
 +++
 date = '2025-09-19T10:57:00+02:00'
-draft = true
+draft = false
 title = 'Chapter 1: Building a Go Todo App - Architecture and Structure 🐹✨'
 tags = ["golang", "learning", "architecture", "clean-architecture", "ddd", "testing", "web-development"]
 categories = ["Go Journey"]
